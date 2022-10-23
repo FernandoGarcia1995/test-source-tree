@@ -12,7 +12,7 @@ public class Main {
 		int i = 0;
 		int contPT, contES; contPT = contES = 0;
 		boolean check = true;
-
+		System.out.println("CAMBIO");
 		while(check && !dataArray.isEmpty()){
 
 			String [] currentItem = dataArray.get(i);
