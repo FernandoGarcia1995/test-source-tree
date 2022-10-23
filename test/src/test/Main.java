@@ -47,6 +47,7 @@ public class Main {
 				check = false;
 			
 			System.out.printf("pR : %d - %s \n", contPT,currentItem[0]);
+			System.out.printf("pN : %d - %s \n", contPT,currentItem[0]);
 			System.out.printf("es : %d - %s \n", contES,currentItem[0]);
 			System.out.println();
 		}
