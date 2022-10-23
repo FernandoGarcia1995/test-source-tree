@@ -48,7 +48,7 @@ public class Main {
 				check = false;
 			
 
-			System.out.printf("pS : %d - %s \n", contPT,currentItem[0]);
+			System.out.printf("cambio 6 test_2 \n", contPT,currentItem[0]);
 			System.out.printf("pN : %d - %s \n", contPT,currentItem[0]);
 			System.out.printf("es : %d - %s \n", contES,currentItem[0]);
 			System.out.println();
