@@ -48,8 +48,8 @@ public class Main {
 			if(dataArray.size()  == i )
 				check = false;
 			
-
 			System.out.printf("cambio 6 test_2 \n", contPT,currentItem[0]);
+			System.out.printf("cambio main 6 : %d - %s \n", contPT,currentItem[0]);
 			System.out.printf("pN : %d - %s \n", contPT,currentItem[0]);
 			System.out.printf("es : %d - %s \n", contES,currentItem[0]);
 			System.out.println();
