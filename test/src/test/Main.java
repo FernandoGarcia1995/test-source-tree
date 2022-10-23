@@ -47,6 +47,7 @@ public class Main {
 			if(dataArray.size()  == i )
 				check = false;
 			
+
 			System.out.printf("pS : %d - %s \n", contPT,currentItem[0]);
 			System.out.printf("pN : %d - %s \n", contPT,currentItem[0]);
 			System.out.printf("es : %d - %s \n", contES,currentItem[0]);
